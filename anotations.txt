@@ -1,0 +1,6 @@
+"scripts": {
+    "dev": "next", //Sobe o servidor de desenvolvimento (Reload automatico, etc)
+    "start": "next start", // Intercepta alguma rota que é executada no servidor em produção
+    "build": "next build" // Compilar uma nova versão, gerar arquivos intermediarios
+}
+
